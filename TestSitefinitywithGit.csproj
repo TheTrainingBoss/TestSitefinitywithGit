@@ -1499,11 +1499,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Analyzer Include="packages\AWSSDK.DynamoDBv2.3.7.200.7\analyzers\dotnet\cs\AWSSDK.DynamoDBv2.CodeAnalysis.dll" />
     <Analyzer Include="packages\AWSSDK.DynamoDBv2.3.7.200.7\analyzers\dotnet\cs\SharedAnalysisCode.dll" />
-    <Analyzer Include="packages\AWSSDK.S3.3.7.201.4\analyzers\dotnet\cs\AWSSDK.S3.CodeAnalysis.dll" />
     <Analyzer Include="packages\AWSSDK.S3.3.7.201.4\analyzers\dotnet\cs\SharedAnalysisCode.dll" />
-    <Analyzer Include="packages\AWSSDK.SQS.3.7.200.7\analyzers\dotnet\cs\AWSSDK.SQS.CodeAnalysis.dll" />
     <Analyzer Include="packages\AWSSDK.SQS.3.7.200.7\analyzers\dotnet\cs\SharedAnalysisCode.dll" />
   </ItemGroup>
   <PropertyGroup>
